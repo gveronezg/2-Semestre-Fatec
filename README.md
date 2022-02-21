@@ -1,3 +1,5 @@
+ANOTAÇÕES!!!!!!!!!!!
+
 # Aula-2---ILP
 
 if (idade < 18)
