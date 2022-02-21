@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(145, 195, 204);
+    width: 400px; /* largura da página */
+    margin: auto;
+    padding-top: 50px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+input {
+    background-color: rgb(177, 169, 169);
+    border-radius: 5px;
+}
+
+#divGeral{
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+}
