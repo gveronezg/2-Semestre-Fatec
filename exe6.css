@@ -1,18 +1,17 @@
 body {
-    background-color: rgb(0, 217, 255);
-    width: 500px; /* largura da página */
-    margin: auto; /* margem esquerda e dereita */
-    padding-top: 50px; /* espaçamento interno acima */
-    color: red
+    background-color: rgb(107, 7, 94);
+    width: 400px; /* largura da página */
+    margin: auto; /* espaçamento interno à esquerda */ 
+    padding-top: 200px; /* espaçamento interno acima */
 }
 div {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 input {
-    background-color: rgb(204, 0, 255);
+    background-color: rgb(255, 255, 255);
 }
 #divGeral{
     border-radius: 15px;
-    background-color: white;
-    padding: 20px;
+    background-color: rgb(174, 160, 255);
+    padding: 50px;
 }
