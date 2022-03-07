@@ -1,0 +1,35 @@
+<!DOCTYPE html> <!--indica para o navegador que o documento é html-->
+<html lang="pt-br"> <!--pai de todos-->
+    <head>
+        <meta charset="utf-8"/> <!--para poder usar acento, ç e demais...-->
+        <title> Exercício 5 - Lista 2 </title> <!--indica o titulo da página-->
+        <link rel="stylesheet" href="exe1.css"/> <!--indica a referencia css-->
+        <script src="exe5switch.js"></script> <!--indica a referencia java script-->
+    </head>
+    <body>
+        <div id="divGeral"> <!--container-->
+            <h2> Exercício 1 </h2>
+            <div>
+                Informe o 1º número: <input type="Number" id="n1">
+            </div>
+            <div>
+                Informe o 2º número: <input type="Number" id="n2">
+            </div>
+            <div>
+                Opção <select id="opcao">
+                    <option value="1"> 1. Média </option>
+                    <option value="2"> 2. Diferença </option>
+                    <option value="3"> 3. Produto </option>
+                    <option value="4"> 4. Divisão </option>
+                </select>
+            </div>
+            <div>
+                O resultado é:
+                <p id="saida"></p>
+            </div>
+            <div>
+                <button onClick="Calcular()"> Calcular </button>
+            </div>
+        </div>
+    </body>
+</html>

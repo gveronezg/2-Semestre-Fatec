@@ -11,7 +11,7 @@ if (imc < 18.5){
     alert("Seu estado : Magreza")
 }
 else if ((imc >= 18.5) && (imc < 25)){
-    alert("Seu estado : Normal")
+    document.getElementById("tipo").innerHTML = "Seu estado : Normal"
 }
 else if ((imc >= 25) && (imc < 30)){
     alert("Seu estado : Sobrepeso")

@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(107, 7, 94);
+    width: 400px;
+    margin: auto;
+    padding-top: 200px;
+}
+div {
+    margin-bottom: 30px;
+}
+input {
+    background-color: rgb(255, 255, 255);
+}
+#divGeral{
+    border-radius: 15px;
+    background-color: rgb(174, 160, 255);
+    padding: 50px;
+}

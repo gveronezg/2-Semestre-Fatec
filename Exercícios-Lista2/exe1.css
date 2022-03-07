@@ -1,0 +1,18 @@
+body { /*configuração do body*/ 
+    background-color: firebrick; /*cor do fundo*/
+    width: 350px; /* largura da página interna */
+    margin: auto; /* espaçamento externo à esquerda e direita */
+    padding-top: 150px; /* espaçamento externo acima */
+}
+div { /* configuração das divs */
+    margin-bottom: 15px; /* margem entre as divs */
+}
+input { /* configuração dos inputs */
+    background-color: rgb(255, 255, 255); /* cor de fundo da caixa de input */
+    margin: 5px /* margem entre a escrita e o input */
+}
+#divGeral{ /* configuração da divGeral */
+    border-radius: 100px; /* arredondamento da borda */
+    background-color: rgb(238, 255, 160); /*cor de fundo da página interna */
+    padding: 60px; /* tamanho da página interna */
+}
